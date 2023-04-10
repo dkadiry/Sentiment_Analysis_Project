@@ -13,5 +13,5 @@ We primarily used Google Drive, Jupyter Notebook and Google Colab for working on
 The dataset is included in the "Dataquest Dataset" excel worksheet file
 
 ## Contributors
-Oluwadamilola "Dami" Kadiri (Myself) 
+Oluwadamilola "Dami" Kadiri (Myself)<br>
 Mark Keran

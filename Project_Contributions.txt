@@ -1,0 +1,21 @@
+Contributors 
+Oluwadamilola "Dami" Kadiri
+Mark Keran
+
+Preliminary Research - both
+Data Pre-processing - Dami
+RNN and LSTM initial design - Mark
+Grid search tuning - Mark
+Manual tuning - Dami
+RNN final architecture design - Mark
+LSTM final architecture design - Dami
+SVC Design and tuning - Mark
+KNN Design and tuning - Mark
+XGBoost Design and tuning - Dami
+Weighted Average Ensemble Model Design and Tuning - Dami
+Majority Vote Ensemble Model Design - Mark
+Preliminary Testing - Both
+Final Testing - Both
+Progress Report - Both
+Presentation Slides - Both
+Final Paper - Both

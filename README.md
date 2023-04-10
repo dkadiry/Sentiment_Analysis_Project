@@ -1,6 +1,6 @@
 # Sentiment_Analysis_Project
 ## Content
-This repository contains the source code for an LSTM-Ensemble Movie review classifier. The hybrid model was trained on 25000 movie reviews. Tested and Validated using 12500 reviews. The model achieved an accuracy of 86.4%
+This repository contains the source code for an LSTM-Ensemble Movie review classifier. The LSTM is used as a feature extractor for the an ensemble of an SVC, XGBoost and KNN classifier. The final ensemble model uses hard majority voting. The hybrid model was trained on 25000 movie reviews. Tested and Validated using 12500 reviews. The model achieved an accuracy of 86.4%
 
 ## Potential Future Development
 Implementing Average Pooling on extracted features from LSTM Hidden layer

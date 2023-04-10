@@ -10,7 +10,7 @@ Increasing the number of neurons in LSTM model
 We primarily used Google Drive, Jupyter Notebook and Google Colab for working on the project. The current project notebook is titled [Sentiment_Analysis_Project.ipynb](https://github.com/dkadiry/Sentiment_Analysis_Project/blob/main/Sentiment_Analysis_Project.ipynb)
 
 ## Dataset
-The dataset is included in the "Dataquest Dataset" excel worksheet file
+Click [here](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for the dataset used.
 
 ## Contributors
 Oluwadamilola "Dami" Kadiri (Myself)<br> 

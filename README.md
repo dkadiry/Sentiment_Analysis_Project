@@ -13,5 +13,9 @@ We primarily used Google Drive, Jupyter Notebook and Google Colab for working on
 The dataset is included in the "Dataquest Dataset" excel worksheet file
 
 ## Contributors
-Oluwadamilola "Dami" Kadiri (Myself)<br>
-Mark Keran
+Oluwadamilola "Dami" Kadiri (Myself)<br> 
+Mark Keran <br>
+Task Distribution Document included in the repo under Project_Contribution.txt
+
+## Project Paper
+Click [here](https://drive.google.com/drive/folders/1S3hrA4JvhnGMegKBioQR5OrRgP0MXRO2?usp=share_link) to download the project paper

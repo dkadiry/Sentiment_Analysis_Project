@@ -18,4 +18,4 @@ Mark Keran <br>
 Task Distribution Document included in the repo under [Project_Contributions.txt](https://github.com/dkadiry/Sentiment_Analysis_Project/blob/main/Project_Contributions.txt)
 
 ## Project Paper
-Click [here](https://drive.google.com/drive/folders/1S3hrA4JvhnGMegKBioQR5OrRgP0MXRO2?usp=share_link) to download the project paper
+Click [here](https://drive.google.com/file/d/1fCo4bLc6Kzhl3mCuiJXaIGRBlWjx3syY/view?usp=share_link) to download the project paper
